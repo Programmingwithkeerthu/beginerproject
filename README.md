@@ -1,6 +1,8 @@
-# beginner level five python project
+# Begineer level project
+It have 5 beginner level project that i cover on my youtube channel.
 
-#file name
+
+# File name and what that have
 Dice - dice rolling simulator
 Guess - number guessing game
 Password - password generator
